@@ -1,0 +1,1 @@
+Collection of round map icons coloured by category. May be used for your points of interests. Simple graphics make the map clear and readable even with larger amount of points.
